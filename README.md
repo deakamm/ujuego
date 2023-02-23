@@ -14,15 +14,15 @@ In the project directory, you can run:
 
 To use the npm package
 
-###`npm i react-bootstrap`
+### `npm i react-bootstrap`
 
 We use bootstrap framework to frontend styles
 
-###`npm i react-router-dom`
+### `npm i react-router-dom`
 
 We use ROUTER DOM to navigation
 
-###`npm start`
+### `npm start`
 
 Runs the proyect on navigator
 
@@ -34,18 +34,18 @@ Runs the proyect on navigator
 
 Slogan "Jugar solo es el principio"
 
-### Figma 
+## Figma 
 
-Sketch
+### Sketch
 ![image](https://user-images.githubusercontent.com/117633735/220895862-43865368-3cc6-401a-bfea-3dc968680b9f.png)
 ![image](https://user-images.githubusercontent.com/117633735/220896258-b4da9d35-9780-4629-9c26-479b741d2f14.png)
 
-Prototype
+### Prototype
 ![image](https://user-images.githubusercontent.com/117633735/220894689-ad1aa5ed-90ea-4db6-87a6-b72d154e5832.png)
 ![image](https://user-images.githubusercontent.com/117633735/220895093-cb1db140-4aef-4338-8ec5-62d24c7eafc9.png)
 ![image](https://user-images.githubusercontent.com/117633735/220895252-55ba3b5f-f507-41a1-b1ff-2bb99889797e.png)
 
-Styles (font, color palette...) 
+### Styles (font, color palette...) 
 ![image](https://user-images.githubusercontent.com/117633735/220895582-5856d515-23a4-44ec-80df-9af9b9bd9822.png)
 
 
