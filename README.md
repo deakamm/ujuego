@@ -65,7 +65,7 @@ https://trello.com/b/iGOFCht7/hackathon-22-team-ugame
 
 ### Contributors
 
-- [Lola García Morcillo]((https://github.com/LolaGM) Product Owner
+- [Lola García Morcillo](https://github.com/LolaGM) Product Owner
 - [Delia Muñoz Molero](https://github.com/DeliaMunMol) Scrum Master
 - [Mamadou Kadame](https://github.com/deakamm) Developer
 - [Paula Ramírez](https://github.com/pagudelo884) Developer
