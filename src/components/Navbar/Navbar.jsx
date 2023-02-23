@@ -23,7 +23,7 @@ const Navbar = () => {
           <img src='./logoU.png' alt="Logo para UGAME" className='logoUgame' />
         </Link>        
         <div className="menu">
-          <Link to="/index" className="menu">
+          <Link to="/" className="menu">
            Inicio
           </Link>
           <Link to="/categories" className="menu" >

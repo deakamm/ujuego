@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react';
+import './JuegoPage.css';
 
-function JuegoPage() {
+function JuegoPage () {
   const [superheroes, setSuperheroes] = useState([]);
 
   useEffect(() => {
@@ -17,11 +18,14 @@ function JuegoPage() {
   }
 
   return (
-    <ul>
+    <ul className='cards'>
       {superheroes.map(superhero => (
-        <li key={superhero.id}>
+        <li className='card' key={superhero.id}>
           <img src={superhero.images.sm} alt={superhero.name} />
-          <h2>{superhero.name}</h2>
+          <div className="card-body">
+          <h2 className="card-title">{superhero.name}</h2>
+          <p className="card-text">{superhero.connections.groupAffiliation}</p>
+          </div>
         </li>
       ))}
     </ul>
