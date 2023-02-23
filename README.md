@@ -1,6 +1,6 @@
 # Introduction
 
-This project proposal is a Marketplace videogame wich has variety of old and new videogames to sell directly to a final consumer.
+This project proposal is a videogame Marketplace  which has a variety of old and new videogames to sell directly to a final customer.
 
 ## Requirements
 
@@ -24,7 +24,7 @@ We use ROUTER DOM to navigation
 
 ### `npm start`
 
-Runs the proyect on navigator
+Runs the proyect on browser
 
 ## Project name
 ## Ugame
@@ -32,7 +32,7 @@ Runs the proyect on navigator
 ### Logo
 ![uGame_blue_copy](https://user-images.githubusercontent.com/117633735/220892615-fe1a28dc-27e2-476e-9fa1-60d3e7bfeea3.png)
 
-Slogan "Jugar solo es el principio"
+Slogan "Jugar solo es el principio" which means "Playing is only the beginning"
 
 ## Figma 
 
@@ -40,27 +40,29 @@ Slogan "Jugar solo es el principio"
 ![image](https://user-images.githubusercontent.com/117633735/220895862-43865368-3cc6-401a-bfea-3dc968680b9f.png)
 ![image](https://user-images.githubusercontent.com/117633735/220896258-b4da9d35-9780-4629-9c26-479b741d2f14.png)
 
-### Prototype
+### Prototype (MockUp)
 ![image](https://user-images.githubusercontent.com/117633735/220894689-ad1aa5ed-90ea-4db6-87a6-b72d154e5832.png)
 ![image](https://user-images.githubusercontent.com/117633735/220895093-cb1db140-4aef-4338-8ec5-62d24c7eafc9.png)
 ![image](https://user-images.githubusercontent.com/117633735/220895252-55ba3b5f-f507-41a1-b1ff-2bb99889797e.png)
 
-### Styles (font, color palette...) 
+### Styles (font, color palette...) Atomic Design
 ![image](https://user-images.githubusercontent.com/117633735/220895582-5856d515-23a4-44ec-80df-9af9b9bd9822.png)
 
 ### Scrum agile method with Trello
 https://trello.com/b/iGOFCht7/hackathon-22-team-ugame
+The team worked in Mob programming for merges and theory and solo programming for specific tasks.
 
 ![image](https://user-images.githubusercontent.com/117633735/220902227-9215db78-2c89-4884-9c35-1dbbfcc290a0.png)
 
 ### Tools
 
 * Figma
+* Canva 
 * Trello
 * HTML5
 * SASS (SCSS)
 * Boostrap react
-* JS
+* JavaScript
 * Vite
 
 ### Contributors
