@@ -48,6 +48,12 @@ Slogan "Jugar solo es el principio"
 ### Styles (font, color palette...) 
 ![image](https://user-images.githubusercontent.com/117633735/220895582-5856d515-23a4-44ec-80df-9af9b9bd9822.png)
 
+### Scrum agile method with Trello
+https://trello.com/b/iGOFCht7/hackathon-22-team-ugame
+
+![image](https://user-images.githubusercontent.com/117633735/220902227-9215db78-2c89-4884-9c35-1dbbfcc290a0.png)
+
+
 
 
 
