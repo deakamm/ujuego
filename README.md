@@ -53,6 +53,28 @@ https://trello.com/b/iGOFCht7/hackathon-22-team-ugame
 
 ![image](https://user-images.githubusercontent.com/117633735/220902227-9215db78-2c89-4884-9c35-1dbbfcc290a0.png)
 
+### Tools
+
+* Figma
+* Trello
+* HTML5
+* SASS (SCSS)
+* Boostrap react
+* JS
+* Vite
+
+### Contributors
+
+[Lola García]((https://github.com/LolaGM)) Product Owner
+[Delia Muñoz](https://github.com/DeliaMunMol) Scrum Master
+[Mamadou Kadame](https://github.com/deakamm) Developer
+[Maria de los Angeles Perez] Developer
+[Paula Ramírez](https://github.com/pagudelo884) Developer
+[Jessica Mosteiro](https://github.com/JehiselRuth) Developer
+[Javier] Developer
+
+
+
 
 
 
