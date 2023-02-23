@@ -38,11 +38,12 @@
     align-content: center;
     background-position: center;
     background-color: #35578F;
-    max-width: 50%;
+    max-width: 45%;
     box-sizing: border-box;
     border-radius: 10px;  
     padding: 2em;
-    margin-left: 19em;
+    margin-left: 23em;
+    margin-bottom: 1em;
   }
   
   .form-control  {
