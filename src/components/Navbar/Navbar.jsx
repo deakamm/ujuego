@@ -3,6 +3,7 @@ import { FaSearch, FaUser, FaShoppingCart, FaThumbsUp, FaThumbsDown } from 'reac
 import { Link } from 'react-router-dom';
 import './Navbar.css';
 
+
 const Navbar = () => {
   const [searchQuery, setSearchQuery] = useState('');
 
