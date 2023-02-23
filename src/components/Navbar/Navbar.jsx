@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { FaSearch, FaUser, FaShoppingCart, FaThumbsUp, FaThumbsDown } from 'react-icons/fa';
+import { FaSearch, FaUser, FaShoppingCart } from 'react-icons/fa';
 import { Link } from 'react-router-dom';
 import './Navbar.css';
 
@@ -12,7 +12,6 @@ const Navbar = () => {
 
   const handleSearchSubmit = (e) => {
     e.preventDefault();
-    // Aquí se puede realizar una acción con la búsqueda, como enviarla a un servidor o actualizar la lista de elementos mostrados
     console.log(searchQuery);
   };
 
@@ -20,8 +19,24 @@ const Navbar = () => {
     <nav className="navbar">
       <div className="navbar-container">
         <Link to="/" className="navbar-logo">
-          uGame
-        </Link>
+          <img src='./logoU.png' alt="Logo para UGAME" className='logoUgame' />
+        </Link>        
+        <div className="menu">
+          <Link to="/" className="menu">
+           Inicio
+          </Link>
+          <Link to="/categories" className="menu" >
+          Categorías
+          </Link>
+          <Link to="/contact" className="menu">
+           Contacto
+          </Link>
+          <Link to="/about" className="menu">
+           Nosotros
+          </Link>
+          <Link to="/cart" className="navbar-icon">
+          </Link>          
+        </div>
         <form onSubmit={handleSearchSubmit} className="search-form">
           <input
             type="text"
@@ -40,13 +55,7 @@ const Navbar = () => {
           </Link>
           <Link to="/cart" className="navbar-icon">
             <FaShoppingCart />
-          </Link>
-          <button className="navbar-icon">
-            <FaThumbsUp />
-          </button>
-          <button className="navbar-icon">
-            <FaThumbsDown />
-          </button>
+          </Link>          
         </div>
       </div>
     </nav>
