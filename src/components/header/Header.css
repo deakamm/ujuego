@@ -19,16 +19,18 @@
   }
   
   .slogan {
+    font-family: 'Arimo', sans serif;
     font-size: 3rem;
     font-weight: bold;
     color: white;
-    margin: 0;
+    margin: auto;
+
   }
   
   .claim {
     display: flex;
     justify-content: center;
-    font-size: 6rem;
+    font-size: 5rem;
     font-weight: bold;
     color: gray;
     margin: 0;
