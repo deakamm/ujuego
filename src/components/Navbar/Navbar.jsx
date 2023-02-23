@@ -21,7 +21,7 @@ const Navbar = () => {
     <nav className="navbar">
       <div className="navbar-container">
         <Link to="/" className="navbar-logo">
-          <img src='./logoU.png' alt="Logo para UGAME" className='logoUgame'/>
+          <img src='./logoU.png' alt="Logo para UGAME" className='logoUgame' />
         </Link>
         <form onSubmit={handleSearchSubmit} className="search-form">
           <input
@@ -36,18 +36,29 @@ const Navbar = () => {
           </button>
         </form>
         <div className="navbar-icons">
+          <Link to="/index" className="index">
+           <a>Inicio</a>
+          </Link>
+          <Link to="/index" className="index">
+           <a>Categorías</a>
+          </Link>
+          <Link to="/index" className="index">
+           <a>Contacto</a>
+          </Link>
+          <Link to="/index" className="index">
+           <a>Nosotros</a>
+          </Link>
+          <Link to="/cart" className="navbar-icon">
+            <FaShoppingCart />
+          </Link>          
+        </div>
+        <div className="navbar-icons">
           <Link to="/login" className="navbar-icon">
             <FaUser />
           </Link>
           <Link to="/cart" className="navbar-icon">
             <FaShoppingCart />
-          </Link>
-          <button className="navbar-icon">
-            <FaThumbsUp />
-          </button>
-          <button className="navbar-icon">
-            <FaThumbsDown />
-          </button>
+          </Link>          
         </div>
       </div>
     </nav>
