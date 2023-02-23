@@ -69,7 +69,7 @@ https://trello.com/b/iGOFCht7/hackathon-22-team-ugame
 - [Delia Muñoz Molero](https://github.com/DeliaMunMol) Scrum Master
 - [Mamadou Kadame](https://github.com/deakamm) Developer
 - [Paula Ramírez](https://github.com/pagudelo884) Developer
-- [Jessica Mosteiro](https://github.com/JehiselRuth) Developer
+- [Jessica Mosteiro](https://github.com/JJessa) Developer
 - [Francisco Javier Pérez Pablos](https://github.com/Javicastropol) Developer
 - [Jehisel Ramos](https://github.com/JehiselRuth) Developer
 - Maria de los Angeles Perez, Developer
