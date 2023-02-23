@@ -1,15 +1,19 @@
 import React from 'react'
+import './Footer.css';
 
 const Footer = () => {
   return (
-         <div className="footer" style={{ backgroundColor: '#f2f2f2', padding: '20px' }}>
-      <p>© 2023 UGame. Todos los derechos reservados.</p>
-      <div className="social-media-icons">
-        <a href="https://twitter.com">
-          <i className="fab fa-twitter"></i>
-        </a>
-      </div>
-    </div>
+        <div className="footer" >
+          <div class="copyRithg">
+            <small>© 2023 <b>UGame.</b> Todos los derechos reservados.</small>
+          </div>
+          <div class="social">
+            <i class="bi bi-instagram"></i>
+            <i class="bi bi-facebook"></i>
+            <i class="bi bi-twitter"></i>
+            <i class="bi bi-discord"></i>
+          </div>
+        </div>
     
   )
 }
