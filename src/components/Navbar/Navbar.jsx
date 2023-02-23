@@ -21,7 +21,7 @@ const Navbar = () => {
     <nav className="navbar">
       <div className="navbar-container">
         <Link to="/" className="navbar-logo">
-          uGame
+          <img src='./logoU.png' alt="Logo para UGAME" className='logoUgame'/>
         </Link>
         <form onSubmit={handleSearchSubmit} className="search-form">
           <input

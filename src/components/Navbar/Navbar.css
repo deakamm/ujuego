@@ -12,12 +12,10 @@
   
   .navbar-container {
     display: flex;
-    justify-content: space-between;
     align-items: center;
     height: 70px;
     width: 100%;
-    padding: 0 50px;
-    max-width: 1300px;
+    padding: 0 20px;
     background-color:#35578F;
   }
   
@@ -28,13 +26,19 @@
     text-decoration: none;
     color: #181A38;
     display: flex;
-    align-items: center;
+  }
+
+  .logoUgame{
+    width: 80%;
+    margin-left: 2%;
+    margin-top: 5%;
+
   }
   
   .search-form {
     display: flex;
     align-items: center;
-    margin-left: 50px;
+    margin-left: 30px;
   }
   
   .search-input {
@@ -42,8 +46,8 @@
     border: none;
     border-radius: 5px;
     font-size: 1rem;
-    width: 200px;
-    margin-right: 5px;
+    width: 250px;
+    margin-right: 80px;
   }
   
   .search-button {
@@ -65,6 +69,5 @@
     margin-left: 30px;
     font-size: 1.5rem;
     color: #181A38;
-    text-decoration: none;
-   
+    text-decoration: none;   
   }  
