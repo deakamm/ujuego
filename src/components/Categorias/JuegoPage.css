@@ -1,3 +1,7 @@
+body{
+    background-color: #181A38;
+}
+
 .cards {
     list-style: none;
     display: flex;

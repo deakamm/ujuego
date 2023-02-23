@@ -12,7 +12,6 @@ const Navbar = () => {
 
   const handleSearchSubmit = (e) => {
     e.preventDefault();
-    // Aquí se puede realizar una acción con la búsqueda, como enviarla a un servidor o actualizar la lista de elementos mostrados
     console.log(searchQuery);
   };
 
